@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h2{
+    color: antiquewhite ;
+}
+button{
+    background-color: rgb(173, 78, 78);
+    margin: 2px;
+    padding: 4px;
+    border-radius: 2px;
+    
+}
